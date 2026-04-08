@@ -1,0 +1,9 @@
+[[redirects]]
+  from = "/"
+  to = "/onboarding_research_slides.html"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/onboarding_research_slides.html"
+  status = 200
